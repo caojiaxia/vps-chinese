@@ -1,4 +1,4 @@
-### 一键运行倒序：
+### 一键运行命令：
 
 ```
 curl -fsSL https://raw.githubusercontent.com/caojiaxia/vps-chinese/main/vps-chinese.sh | sudo bash
